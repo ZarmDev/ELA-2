@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sucktoes Edit 1 Export 1.mp3-3eed8ebd70f0cf6e1a8e37c7a6e5a69a.mp3str"
+
+[deps]
+
+source_file="res://Music/sucktoes Edit 1 Export 1.mp3"
+dest_files=[ "res://.import/sucktoes Edit 1 Export 1.mp3-3eed8ebd70f0cf6e1a8e37c7a6e5a69a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
